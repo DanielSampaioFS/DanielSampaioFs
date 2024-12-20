@@ -1,6 +1,6 @@
 ## Ola, me chamo Daniel Sampaio.
-####  👩‍ 💻Sou desenvolvedor back-end Aled
-####  💻 E-mail danielsampaio127@gmail.com
+####  👩‍ 💻Desenvolvedor back-end Aled
+####  💻 E-mail: danielsampaio127@gmail.com
 <br>
 <div align="center">
   <a href="https://github.com/XDanielSampaioX">
