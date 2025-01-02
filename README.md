@@ -3,9 +3,9 @@
 ####  💻 E-mail: danielsampaio127@gmail.com
 <br>
 <div align="center">
-  <a href="https://github.com/XDanielSampaioX">
+  <a href="https://github.com/DanielSampaioFS">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DanielSampaioFS&show_icons=true&theme=radical"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDanielSampaioX&layout=compact&theme=radical"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSampaioFS&layout=compact&theme=radical"/>
   </a>
 </div>
 <br>
