@@ -15,6 +15,7 @@
 </div>
 
 ![Repositórios Contribuídos](https://github-contributor-stats.vercel.app/api?username=DanielSampaioFS&repo=atacadaoled/sysled-api)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=atacadaoled&repo=sysled-api)
 
 
 <picture>
